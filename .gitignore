@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual env
+venv/
+.env/
+
+# Django
+db.sqlite3
+/static/
+/media/
+/*.pyc
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+*.sock
+*.env
+*.db
+*.log
+Dockerfile
+docker-compose.yml
