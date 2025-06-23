@@ -23,5 +23,5 @@ db.sqlite3
 *.env
 *.db
 *.log
-Dockerfile
-docker-compose.yml
+# Dockerfile
+# docker-compose.yml
